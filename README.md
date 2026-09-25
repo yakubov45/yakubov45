@@ -34,6 +34,6 @@ class Developer:
 
 <div align="center">
   <a href="https://github.com/yakubov45">
-    <img width="800" src="https://gist.github.com/yakubov45/06c5678f653aabe48ec7a0c9affe2fd7" alt="GitHub Metrics">
+    <img width="800" src="https://raw.githubusercontent.com/yakubov45/yakubov45/refs/heads/main/general.svg" alt="GitHub Metrics">
   </a>
 </div>
