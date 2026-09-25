@@ -33,3 +33,10 @@ class Developer:
     ]
 
     philosophy = "Build → Break → Understand → Improve"
+```
+<a href="https://github.com/yakubov45">
+  <img align="left" width="480" src="[SIZNING_GENERAL_SVG_RAW_LINKINGIZ_SHU_YERGA](https://raw.githubusercontent.com/yakubov45/yakubov45/refs/heads/main/general.svg)">
+</a>
+<a href="https://github.com/yakubov45">
+  <img align="right" width="400" src="SIZNING_ACHIEVEMENTS_SVG_RAW_LINKINGIZ_SHU_YERGA">
+</a>
