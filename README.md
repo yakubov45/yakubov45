@@ -1,112 +1,35 @@
-# 👋 Hi, I'm Muhammad Yoqubjonov
+<div align="center">
 
-### 🤖 AI Engineer | Full-Stack Developer
+# 👨‍💻 Muhammad Yoqubjonov
 
-I'm a 2nd-year **Artificial Intelligence student at PDP University**, passionate about building practical projects and learning through real-world experience.
+### `AI Engineer in progress...`
 
-I enjoy turning ideas into working products, experimenting with AI, and improving my skills through projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%F0%9F%A4%96;Full-Stack+Development+%F0%9F%92%BB;Building+things+that+actually+work+%F0%9F%9A%80;Learning+by+building+%E2%9A%A1" />
 
----
+<br>
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-yakubov45-181717?style=for-the-badge&logo=github)](https://github.com/yakubov45)
 
-* 🎓 Artificial Intelligence student at **PDP University**
-* 🤖 Focused on **AI & Machine Learning**
-* 💻 Interested in **Full-Stack Development + AI**
-* 🧠 Currently learning **Deep Learning, Neural Networks & AI Engineering**
-* 🔧 Building projects with **Python, JavaScript and Node.js**
-* 🌱 Learning by doing: **Practice → Error → Analysis → Understanding → Improvement**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 `whoami`
 
-### Languages
+```python
+class Developer:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+    name = "Muhammad Yoqubjonov"
+    role = "AI Engineer"
+    university = "PDP University"
 
-### AI / ML
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "AI Agents",
+        "Full-Stack Development"
+    ]
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🖥️ OnePC
-
-An e-commerce platform for PC components and hardware.
-
-**Tech:** Next.js • React • Firebase • Zustand • Tailwind CSS
-
----
-
-### 🧠 AI Wood Defect Detection
-
-A custom CNN-based computer vision project for detecting defects in wood manufacturing.
-
-**Tech:** Python • TensorFlow • CNN • Gradio
-
----
-
-### 🛒 TechStore
-
-A full-stack technology e-commerce platform with authentication, multilingual support and product management.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-## 📚 Currently Learning
-
-* 🧠 Machine Learning
-* 🤖 Deep Learning
-* 👁️ Computer Vision
-* 🧩 Neural Networks
-* 🔄 Transformers & LLMs
-* 🛠️ AI Agents
-* 🌐 AI-powered applications
-* ⚡ FastAPI & API development
-
----
-
-## 🎯 Goal
-
-> **Become an AI Engineer capable of building real-world AI-powered products.**
-
-I'm continuously improving my knowledge by building projects, making mistakes, analyzing them, and trying again.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakubov45&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubov45&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-* 💻 GitHub: [@yakubov45](https://github.com/yakubov45)
-
----
-
-⭐ **Building. Learning. Improving.**
+    philosophy = "Build → Break → Understand → Improve"
