@@ -1,19 +1,19 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 16 * * *"}] # Har kuni Toshkent vaqti bilan 21:00 da ishlaydi
+  schedule: [{cron: "0 16 * * *"}]
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 🦑 General
+      - name: 🦑 General & Habits
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          config_order: base.header, isocalendar, languages, habits, notable, discussions, topics
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
@@ -25,6 +25,9 @@ jobs:
           plugin_languages_limit: 4
           plugin_topics: yes
           plugin_topics_mode: icons
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
       - name: 🦑 Achievements
         uses: lowlighter/metrics@latest
