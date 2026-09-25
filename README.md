@@ -30,5 +30,3 @@ class Developer:
         "AI Agents",
         "Full-Stack Development"
     ]
-    
-    philosophy = "Build → Break → Understand → Improve"
